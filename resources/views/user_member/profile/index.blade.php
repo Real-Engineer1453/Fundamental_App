@@ -163,6 +163,9 @@ User Profile
                 <div class="update ml-auto mr-auto">
                     <button type="submit" class="btn btn-primary btn-round">Update Profile</button>
                 </div>
+                <div class="update ml-auto mr-auto">
+                    <button type="submit" class="btn btn-primary btn-round">Cetak KTA</button>
+                </div>
                 </div>
             </form>
             </div>
